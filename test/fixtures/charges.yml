@@ -1,0 +1,181 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+success_1:
+  created: 2020-07-31 14:53:57
+  paid: true
+  amount: 1000
+  currency: usd
+  refunded: false
+  customer: johny
+  disputed: false
+
+success_2:
+  created: 2020-07-31 14:53:57
+  paid: true
+  amount: 1000
+  currency: usd
+  refunded: false
+  customer: johny
+  disputed: false
+
+success_3:
+  created: 2020-07-31 14:53:57
+  paid: true
+  amount: 1000
+  currency: usd
+  refunded: false
+  customer: johny
+  disputed: false
+
+success_4:
+  created: 2020-07-31 14:53:57
+  paid: true
+  amount: 1000
+  currency: usd
+  refunded: false
+  customer: johny
+  disputed: false
+
+success_5:
+  created: 2020-07-31 14:53:57
+  paid: true
+  amount: 1000
+  currency: usd
+  refunded: false
+  customer: johny
+  disputed: false
+
+success_6:
+  created: 2020-07-31 14:53:57
+  paid: true
+  amount: 1000
+  currency: usd
+  refunded: false
+  customer: raj
+  disputed: false
+
+success_7:
+  created: 2020-07-31 14:53:57
+  paid: true
+  amount: 1000
+  currency: usd
+  refunded: false
+  customer: raj
+  disputed: false
+
+success_8:
+  created: 2020-07-31 14:53:57
+  paid: true
+  amount: 1000
+  currency: usd
+  refunded: false
+  customer: raj
+  disputed: false
+
+success_9:
+  created: 2020-07-31 14:53:57
+  paid: true
+  amount: 1000
+  currency: usd
+  refunded: false
+  customer: andrew
+  disputed: false
+
+success_10:
+  created: 2020-07-31 14:53:57
+  paid: true
+  amount: 1000
+  currency: usd
+  refunded: false
+  customer: mike
+  disputed: false
+
+success_11:
+  created: 2020-07-31 14:53:57
+  paid: false
+  amount: 1000
+  currency: usd
+  refunded: true
+  customer: raj
+  disputed: false
+
+success_12:
+  created: 2020-07-31 14:53:57
+  paid: false
+  amount: 1000
+  currency: usd
+  refunded: true
+  customer: raj
+  disputed: false
+
+success_13:
+  created: 2020-07-31 14:53:57
+  paid: false
+  amount: 1000
+  currency: usd
+  refunded: true
+  customer: raj
+  disputed: false
+
+success_14:
+  created: 2020-07-31 14:53:57
+  paid: false
+  amount: 1000
+  currency: usd
+  refunded: true
+  customer: andrew
+  disputed: false
+
+success_15:
+  created: 2020-07-31 14:53:57
+  paid: false
+  amount: 1000
+  currency: usd
+  refunded: true
+  customer: andrew
+  disputed: false
+
+success_16:
+  created: 2020-07-31 14:53:57
+  paid: false
+  amount: 1000
+  currency: usd
+  refunded: true
+  customer: johny
+  disputed: true
+
+success_17:
+  created: 2020-07-31 14:53:57
+  paid: false
+  amount: 1000
+  currency: usd
+  refunded: true
+  customer: johny
+  disputed: true
+
+success_18:
+  created: 2020-07-31 14:53:57
+  paid: false
+  amount: 1000
+  currency: usd
+  refunded: true
+  customer: johny
+  disputed: true
+
+success_19:
+  created: 2020-07-31 14:53:57
+  paid: false
+  amount: 1000
+  currency: usd
+  refunded: true
+  customer: raj
+  disputed: true
+
+success_20:
+  created: 2020-07-31 14:53:57
+  paid: false
+  amount: 1000
+  currency: usd
+  refunded: true
+  customer: raj
+  disputed: true

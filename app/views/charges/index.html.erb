@@ -1,0 +1,14 @@
+<h1>Failed Charges</h1>
+<ul id="failed">
+  <%= render partial: "charge", collection: @failed_charges %>
+</ul>
+
+<h1>Disputed Charges</h1>
+<ul id="disputed">
+  <%= render partial: "charge", collection: @disputed_charges %>
+</ul>
+
+<h1>Successful Charges</h1>
+<ul id="successfull">
+  <%= render partial: "charge", collection: @success_charges %>
+</ul>
